@@ -1,0 +1,1 @@
+# simple-cos-weixin-local
