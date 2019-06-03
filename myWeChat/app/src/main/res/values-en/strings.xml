@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">myWeChat</string>
+    <string name="canel">canel</string>
+    <string name="register">Register</string>
+    <string name="accountNumber">account number</string>
+    <string name="number">WeChat/mobile phone/QQ</string>
+    <string name="password">pw</string>
+    <string name="writePassword"> Please enter your password</string>
+    <string name="readPwd">remember password</string>
+    <string name="registered">registered</string>
+    <string name="yourName">please write your name</string>
+    <string name="yhm">your name</string>
+    <string name="login">login</string>
+    <string name="send">send</string>
+</resources>
